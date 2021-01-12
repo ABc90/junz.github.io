@@ -1,8 +1,6 @@
 # Zhou Jun
 
+<img src=".\photo1.jpg" width="200" div align=right/>
 
-<right>
-    <img src=".\photo1.jpg" width="200">
-</right>
 
 ## Publications
