@@ -21,5 +21,5 @@ Jun Zhou is a lecturer in the College of Information Science and Technology at D
 
 ### Publications
 
-*   Zhou, Jun, Hua Huang, Bin Liu, and Xiuping Liu. "Normal estimation for 3d point clouds via local plane constraint and multi-scale selection." Computer-Aided Design 129 (2020): 102916.
+*   Zhou, Jun<sup>*</sup>, Hua Huang, Bin Liu, and Xiuping Liu. "Normal estimation for 3d point clouds via local plane constraint and multi-scale selection." Computer-Aided Design 129 (2020): 102916.[Link](https://arxiv.org/pdf/1910.08537.pdf)
 
