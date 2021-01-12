@@ -8,7 +8,7 @@
       <p><b>  </b></p>
     </td>
     <td width="25%">
-      <img src="./photo1.jpg" width="100%">
+      <img src="./photo1.jpg" width="65%">
     </td>
   </tr>
 </table>
