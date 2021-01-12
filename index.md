@@ -3,7 +3,9 @@
     <td width="25%">
       <img src="/photo.jpg" width="100%">      
     </td>
-    <td width="75%">
+    <td width="10%">
+    </td>
+    <td width="65%">
       <h1>Zhou Jun</h1>
       <p><b>Email: jun90@dlmu.edu.cn</b></p>
       <p><b>××大学××学院</b></p>
