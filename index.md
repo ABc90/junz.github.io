@@ -1,6 +1,6 @@
 # Zhou Jun
 
 
-<div align=right> ![photo](\photo1.jpg) </div>
+![photo]("https://github.com/ABc90/junz.github.io/photo1.jpg")
 
 ## Publications
