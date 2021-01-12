@@ -13,5 +13,11 @@
   </tr>
 </table>
 
+---
+
+Jun Zhou is a lecturer in the College of Information Science and Technology at Dalian Maritime University, PR China. He  received the Ph.D. degrees in computational mathematics from Dalian University of Technology. His research interests include computer graphics, image processing and machine learning.
+
+---
+
 #Publications
 
