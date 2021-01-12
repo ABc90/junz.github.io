@@ -21,7 +21,7 @@ Jun Zhou is a lecturer in the College of Information Science and Technology at D
 
 ### Publications
 
-* Zhou Jun<sup>*</sup>, Hua Huang, Bin Liu, and Xiuping Liu. "Normal estimation for 3d point clouds via local plane constraint and multi-scale selection." Computer-Aided Design (2020). [[Paper]](https://arxiv.org/pdf/1910.08537.pdf)
+* **Zhou Jun<sup>*</sup>**, Hua Huang, Bin Liu, and Xiuping Liu. "Normal estimation for 3d point clouds via local plane constraint and multi-scale selection." Computer-Aided Design (2020). [[Paper]](https://arxiv.org/pdf/1910.08537.pdf)
 * Lina Zhang, Shiyao Wang<sup>*</sup>; Zhou Jun; Jian Liu ; Chungang Zhu. "3D grasp saliency analysis via deep shape correspondence." Computer Aided Geometric Design(2020)
 * Xiuping Liu, Hua Huang<sup>*</sup>, Weiming Wang and Jun Zhou . "Multi-view 3D shape style transformation." The Visual Computer.(Accepted)
 * Junjie Cao, Hairui Zhu, Yunpeng Bai, Jun Zhou<sup>*</sup>, Jinshan Pan and Zhixun Su. "Latent Tangent Space Representation for Normal Estimation." Transactions on Industrial Electronics (2020). (Accepted)
