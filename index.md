@@ -7,7 +7,7 @@
         <p><b>Affiliations: School of Information Science and Technology, Dalian Maritime University </b></p>
         <p><b>Address: Dalian Maritime University, Dalian, 116026, China </b></p>
         <p><b>  </b></p>
-      <\td>
+      </td>
       <td width="25%">
         <img src="./photo1.jpg" width="100%">
       </td>
