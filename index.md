@@ -21,7 +21,7 @@ Jun Zhou is a lecturer in the College of Information Science and Technology at D
 
 ### Publications
 
-*   Zhou, Jun<sup>*</sup>, Hua Huang, Bin Liu, and Xiuping Liu. "Normal estimation for 3d point clouds via local plane constraint and multi-scale selection." Computer-Aided Design 129 (2020): 102916.[[Paper]](https://arxiv.org/pdf/1910.08537.pdf)
-*   Zhou, Jun<sup>*</sup>, MingJie Wang, Wendong Mao, MingLun Gong, and Xiuping Liu. "SiamesePointNet: A Siamese Point Network Architecture for Learning 3D Shape Descriptor." In Computer Graphics Forum, vol. 39, no. 1, pp. 309-321. 2020.[[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13804)
+*   Zhou, Jun<sup>*</sup>, Hua Huang, Bin Liu, and Xiuping Liu. "Normal estimation for 3d point clouds via local plane constraint and multi-scale selection." Computer-Aided Design (2020). [[Paper]](https://arxiv.org/pdf/1910.08537.pdf)
+*   Zhou, Jun<sup>*</sup>, MingJie Wang, Wendong Mao, MingLun Gong, and Xiuping Liu. "SiamesePointNet: A Siamese Point Network Architecture for Learning 3D Shape Descriptor." In Computer Graphics Forum (2020). [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13804)
 
 
