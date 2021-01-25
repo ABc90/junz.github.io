@@ -44,7 +44,7 @@ He is a lecturer in the School of Information Science and Technology at Dalian M
 
 ###  Readings [[list]](https://github.com/ABc90/ReadingList)
 
-
+###### [Self-supervised Learning for Domain Adaption on Point Clouds](https://github.com/ABc90/ReadingList/tree/main/Others/self-supervised-learning-for-domain-adaption-on-point-clouds.md)
 
 
 
