@@ -41,4 +41,6 @@ He is a lecturer in the School of Information Science and Technology at Dalian M
 * **Zhou Jun**, Weiming Wang, Jie Zhang, Baocai Yin, and Xiuping Liu<sup>*</sup>. "3D shape segmentation using multiple random walkers." Journal of Computational and Applied Mathematics (2018).
 
 ---
-Reading List
+### Reading List
+- 
+
