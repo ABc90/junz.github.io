@@ -42,4 +42,3 @@ He is a lecturer in the School of Information Science and Technology at Dalian M
 
 ---
 Reading List
----
