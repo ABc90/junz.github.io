@@ -39,3 +39,6 @@ He is a lecturer in the School of Information Science and Technology at Dalian M
 * Junjie Cao, Hairui Zhu, Yunpeng Bai, **Jun Zhou<sup>*</sup>**, Jinshan Pan and Zhixun Su. "Latent Tangent Space Representation for Normal Estimation." Transactions on Industrial Electronics (2020). (Accepted)
 * **Zhou Jun**, Xiuping Liu<sup>*</sup>, Junjie Cao, Weiming Wang, and Baocai Yin. "Deep mesh labeling via learned semantic boundary guidance." Computer-Aided Design (2018).[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S001044851830054X)
 * **Zhou Jun**, Weiming Wang, Jie Zhang, Baocai Yin, and Xiuping Liu<sup>*</sup>. "3D shape segmentation using multiple random walkers." Journal of Computational and Applied Mathematics (2018).
+
+---
+### Reading List
