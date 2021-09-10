@@ -32,7 +32,7 @@ He is a lecturer in the School of Information Science and Technology at Dalian M
 
 ### Publications[[Google Scholar]](https://scholar.google.com/citations?user=R1BlW14AAAAJ&hl=en)[[Github]](https://github.com/ABc90)
 
-* **Zhou Jun**, Wei Jin, Mingjie Wang<sup>*</sup>, Zhiyang Li, Zhaobin Liu and  Xiuping Liu. "Fast and Accurate Normal Estimation for Point Clouds via Patch Stitching." Computer-Aided Design.
+* **Zhou Jun**, Wei Jin, Mingjie Wang<sup>*</sup>, Xiuping Liu, Zhiyang Li and Zhaobin Liu. "Fast and Accurate Normal Estimation for Point Clouds via Patch Stitching." Computer-Aided Design.
 * **Zhou Jun<sup>*</sup>**, Hua Huang, Bin Liu, and Xiuping Liu. "Normal estimation for 3d point clouds via local plane constraint and multi-scale selection." Computer-Aided Design (2020). [[Paper]](https://arxiv.org/pdf/1910.08537.pdf)
 * **Zhou Jun**, MingJie Wang, Wendong Mao, MingLun Gong, and Xiuping Liu. "SiamesePointNet: A Siamese Point Network Architecture for Learning 3D Shape Descriptor." In Computer Graphics Forum (2020). [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13804)
 * Lina Zhang, Shiyao Wang<sup>*</sup>; **Zhou Jun**; Jian Liu ; Chungang Zhu. "3D grasp saliency analysis via deep shape correspondence." Computer Aided Geometric Design(2020)
