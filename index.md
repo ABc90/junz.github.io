@@ -31,6 +31,7 @@ He is a lecturer in the School of Information Science and Technology at Dalian M
 ---
 
 ### Publications[[Google Scholar]](https://scholar.google.com/citations?user=R1BlW14AAAAJ&hl=en)[[Github]](https://github.com/ABc90)
+* **Zhou Jun**, Yaoshun Li, Mingjie Wang, Nannan Li, Zhiyang Li, and Weixiao Wang. "Robust point cloud normal estimation via multi-level critical point aggregation." The Visual Computer(2024).
 * **Zhou Jun**, Wei Jin, Mingjie Wang<sup>*</sup>, Xiuping Liu, Zhiyang Li and Zhaobin Liu. "Improvement of normal estimation for point clouds via simplifying surface fitting." Computer-Aided Design(2023).
 * **Zhou Jun**, Wei Jin, Mingjie Wang<sup>*</sup>, Xiuping Liu, Zhiyang Li and Zhaobin Liu. "Fast and Accurate Normal Estimation for Point Clouds via Patch Stitching." Computer-Aided Design(2022).
 * **Zhou Jun<sup>*</sup>**, Hua Huang, Bin Liu, and Xiuping Liu. "Normal estimation for 3d point clouds via local plane constraint and multi-scale selection." Computer-Aided Design (2020). [[Paper]](https://arxiv.org/pdf/1910.08537.pdf)
