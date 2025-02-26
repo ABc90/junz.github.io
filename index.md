@@ -31,6 +31,7 @@ He is a lecturer in the School of Information Science and Technology at Dalian M
 ---
 
 ### Publications[[Google Scholar]](https://scholar.google.com/citations?user=R1BlW14AAAAJ&hl=en)[[Github]](https://github.com/ABc90)
+* **Jun Zhou<sup>*</sup>**, Wei Song, Mingjie Wang, Hongchen Tan, Nannan Li, Xiuping Liu, "Fine-grained text and image guided point cloud completion with CLIP model". Neurocomputing(2025)
 * **Zhou Jun<sup>*</sup>**, Yaoshun Li, Mingjie Wang, Nannan Li, Zhiyang Li, and Weixiao Wang. "Robust point cloud normal estimation via multi-level critical point aggregation." The Visual Computer(2024).
 * **Zhou Jun**, Wei Jin, Mingjie Wang<sup>*</sup>, Xiuping Liu, Zhiyang Li and Zhaobin Liu. "Improvement of normal estimation for point clouds via simplifying surface fitting." Computer-Aided Design(2023).
 * **Zhou Jun**, Wei Jin, Mingjie Wang<sup>*</sup>, Xiuping Liu, Zhiyang Li and Zhaobin Liu. "Fast and Accurate Normal Estimation for Point Clouds via Patch Stitching." Computer-Aided Design(2022).
