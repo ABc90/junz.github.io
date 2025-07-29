@@ -35,7 +35,7 @@ He is a lecturer in the School of Information Science and Technology at Dalian M
 <table>
 <tr>
 <td width="150px">
-  <img src="./teaser.png" alt="Teaser" width="140px">
+  <img src="./pipeline.jpg" alt="Teaser" width="140px">
 </td>
 <td>
 
