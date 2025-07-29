@@ -32,24 +32,6 @@ He is a lecturer in the School of Information Science and Technology at Dalian M
 
 ### Publications[[Google Scholar]](https://scholar.google.com/citations?user=R1BlW14AAAAJ&hl=en)[[Github]](https://github.com/ABc90)
 
-<table>
-<tr>
-<td width="150px">
-  <img src="./hfgs_pipeline.jpg" alt="Teaser" width="140px">
-</td>
-<td>
-
-**Jun Zhou<sup>*</sup>**, Dinghao Li, Nannan Li, and Mingjie Wang.  
-"High-fidelity 3D Gaussian Inpainting: preserving multi-view consistency and photorealistic details."  
-*Computers & Graphics (SMI 2025).*  
-[[Paper]](https://arxiv.org/pdf/2507.18023) [[Code]](https://github.com/xzdmx/hf-gs)
-
-</td>
-</tr>
-</table>
-
-
-
 * **Jun Zhou<sup>*</sup>**, Dinghao Li, Nannan Li, and Mingjie Wang. "High-fidelity 3D Gaussian Inpainting: preserving multi-view consistency and photorealistic details." Computers & Graphics(SMI 2025).[[Paper]](https://arxiv.org/pdf/2507.18023)[[Code]](https://github.com/xzdmx/hf-gs)
 * Jin, Wei, **Jun Zhou<sup>*</sup>**, Nannan Li, Haba Madeline, and Xiuping Liu. "Asymmetrical siamese network for point clouds normal estimation." Expert Systems with Applications(2025).
 * Jin, Wei, **Jun Zhou<sup>*</sup>**, Mingjie Wang, Nannan Li, Weixiao Wang, and Xiuping Liu. "Enhanced normal estimation of point clouds via fine-grained geometric information learning." Machine Vision and Applications(2025).
