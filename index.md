@@ -1,8 +1,5 @@
----
 
 Jun Zhou is an associate professor in the School of Information Science and Technology at Dalian Maritime University, China. He received his Ph.D. degree in Computational Mathematics from Dalian University of Technology. His research interests include computer graphics, 3D computer vision, point cloud processing, image processing, and machine learning.
-
----
 
 ### Publications [[Google Scholar]](https://scholar.google.com/citations?user=R1BlW14AAAAJ&hl=en) [[GitHub]](https://github.com/ABc90)
 
@@ -26,9 +23,6 @@ Jun Zhou is an associate professor in the School of Information Science and Tech
 * **Jun Zhou**, Weiming Wang, Jie Zhang, Baocai Yin, and Xiuping Liu*. “3D Shape Segmentation Using Multiple Random Walkers.” *Journal of Computational and Applied Mathematics* (2018).
 
 * Corresponding author.
-
----
-
 
 
 
